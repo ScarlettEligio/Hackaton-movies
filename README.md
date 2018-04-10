@@ -3,7 +3,13 @@
 Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
 
 
-## Reglas generales:
+
+## Descripcion:
+
+Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
+
+
+![gify](https://user-images.githubusercontent.com/32875483/38587355-c1cacdca-3ce6-11e8-99d4-c00c754ccade.png)
 
 * El trabajo es en squads de 4-5 personas
 * Duración: 4 turnos en la sala de clases y todo el tiempo adicional que quieran/puedan trabajar.
