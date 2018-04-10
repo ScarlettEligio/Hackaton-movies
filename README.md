@@ -1,9 +1,5 @@
 # Hackathon Entertainment
 
-Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
-
-
-
 ## Descripcion:
 
 Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
